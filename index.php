@@ -64,7 +64,7 @@
 		</div>
 	</section>
 	<section>
-		<h1>modificaiton</h1>
+		<h1>modification</h1>
 	</section>
 
 

@@ -1,2 +1,9 @@
-les rond, doivent etre simplement tout rond, et qd un est activé, il est cerclé de noir, là, on est en édition d'un pou plsueirs fichier et tout à l'heure tu étais en édition pour commiter, pas besoin du mode edition juste cliquer sur devMO et PUSH v apparaître ! :-) essaie :-)
--ok
+Ok.... Autres question sur le Git ?
+-pour le moment non
+-Ok, on regarde car c rapide, ça TeamViewer
+
+
+13.0.0.6447
+
+tu as un 32 ou 64 bit ?
+32 je pense

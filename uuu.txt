@@ -1,3 +1,6 @@
-Voilà comme on commit avec VSC, t'as vu, c cool, non :-) ?
--oui c'est vraiment cool. on tape sur la barre recherche le nom du fichier qu'on veut ajouter et c'est fait automaitquement?
--non, on s'occupe pas du nom là, je l'ai indiqué mais c'est pas la peine, regarde, on fait une modif...
+Voilà, c'est à peu près tout ce qu'il faut savoir pour utiliser git
+des question sur Git ?
+-oui. je vais faire une modification pour voir si j'ai bien retenu?
+-OUi, très bonne initiative :-) Je look ;-)
+-ok
+-

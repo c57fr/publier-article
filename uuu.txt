@@ -1,6 +1,2 @@
-Voilà, c'est à peu près tout ce qu'il faut savoir pour utiliser git
-des question sur Git ?
--oui. je vais faire une modification pour voir si j'ai bien retenu?
--OUi, très bonne initiative :-) Je look ;-)
+les rond, doivent etre simplement tout rond, et qd un est activé, il est cerclé de noir, là, on est en édition d'un pou plsueirs fichier et tout à l'heure tu étais en édition pour commiter, pas besoin du mode edition juste cliquer sur devMO et PUSH v apparaître ! :-) essaie :-)
 -ok
--

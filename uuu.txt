@@ -1,0 +1,19 @@
+Comme tu peux le voir, g écrit un fichier uuu.txt....
+Là, pour parler sur la meme page, en meme temps, je laisse un tiret pour dire: à toi de parler ! as tu compris ?
+-ok
+(tu dois me mettre le tiret pour me diire que tu me donnes la parole comme ça ça me dit aussi que tu as fini
+
+-oui d'accord
+-Super :-) 
+Bien, donc, par convention, on travaille jamais dans la branche master, dans les dépôts git parce que cette master, c'est la version bien opérationnelle d'un programme
+Et donc, je t'ai fait un brache dev
+moi tu as dû voir que mes dpôt on,t une branche devGc7 (eh bien, en général, c'est là dedans que je bosse, et comme ça meme si c'est bancal qd je vais me coiucher, lol, ça gêne personne, car les gens qui prenne éventuellement le dépôt vont vouloir la version de base,n stable et ne regarderont souvent que la masterOk, compros pour cette histoire de jambe, sachant que toi, g mis devMO (Car plus court que devMomo, et on comprends que c'est toi
+
+-donc quand je code je dois le faire depuis le devMo?
+-OUi, absolument ! Regarde, en bas à gauche dnas la bar vleue de VSC, ça te le dit, qu'on est dans devMo, tu vois ?
+
+-oui je vois. est ce que c
+ça m'affichera le devMo à cha que j'ouvre VSC?
+-Bien regarde ! Comme tu vois, tout reviens exactement comme on l'a quitté ! ;-) !
+-oui je vois. tu es un génie je t'assure 
+-Mais non, mais merci qd même ça fait toujours plaisir :-)... Bon, donc que dire de plus ça, regarde, là, on a jouter ce ficheir, on va le commiter....
